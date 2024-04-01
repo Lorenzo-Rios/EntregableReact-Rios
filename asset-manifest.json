@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/EntregableReact-Rios/static/css/main.b6adae39.css",
+    "main.js": "/EntregableReact-Rios/static/js/main.1729f3cf.js",
+    "static/js/453.419a5d54.chunk.js": "/EntregableReact-Rios/static/js/453.419a5d54.chunk.js",
+    "index.html": "/EntregableReact-Rios/index.html",
+    "main.b6adae39.css.map": "/EntregableReact-Rios/static/css/main.b6adae39.css.map",
+    "main.1729f3cf.js.map": "/EntregableReact-Rios/static/js/main.1729f3cf.js.map",
+    "453.419a5d54.chunk.js.map": "/EntregableReact-Rios/static/js/453.419a5d54.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b6adae39.css",
+    "static/js/main.1729f3cf.js"
+  ]
+}
