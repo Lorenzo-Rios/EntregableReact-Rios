@@ -3,7 +3,7 @@ import React from 'react'
 import styled from 'styled-components'
 import { Navbar, Nav, Dropdown } from 'react-bootstrap';
 
-function NavBar() {
+export default function NavBar() {
     return (
         <>
             <StyledContainer>
@@ -41,8 +41,6 @@ function NavBar() {
         </>
     )
 }
-
-export default NavBar;
 
 const StyledContainer = styled.nav`
     background-color: #333;
