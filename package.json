@@ -2,7 +2,7 @@
   "name": "client",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://Lorenzo-Rios.github.io/",
+  "homepage": "https://Lorenzo-Rios.github.io/EntregableReact-Rios/",
   "dependencies": {
     "@pmmmwh/react-refresh-webpack-plugin": "^0.5.3",
     "@svgr/plugin-svgo": "^8.1.0",
